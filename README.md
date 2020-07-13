@@ -1,12 +1,12 @@
 
 <img alt="WhatsApp Extension" title="logo" src="./assets/logo.png" align="center" >
 
-# PalpiteBox - Developed Semana Fullstack Master
+# PalpiteBox - Semana Fullstack Master
 
 [![HitCount](http://hits.dwyl.com/5626pedro/palpite-box-app.svg)](http://hits.dwyl.com/5626pedro/palpite-box-app)
 
 ## 💬 About
-This project was built during the "Semana Fullstack Master" [DevPleno](https://devpleno.com). Online version: https://palpite-box-app.vercel.app.
+This project was built during the "Semana Fullstack Master" from [DevPleno](https://devpleno.com). Online version: https://palpite-box-app.vercel.app.
 
 
 
@@ -42,11 +42,3 @@ SHEET_DOC_ID=id da planilha
 rapidly building custom designs.
 * [Figma](https://figma.com/) - Online prototyping tool.
 * [Google Sheets](https://drive.google.com) - Planilhas online do Google
-
-## Author:
-
-* **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
-
-## Acknowledgments
-
-* Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
